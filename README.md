@@ -1,6 +1,6 @@
 ## Projects: </br>
-1. [Cleaving amp sequences](amp_pipeline) </br>
-2. [Sliding window cleaving](sliding_window)
+ [Cleaving amp sequences](amp_pipeline) </br>
+ [Sliding window cleaving](sliding_window)
 
 
 
