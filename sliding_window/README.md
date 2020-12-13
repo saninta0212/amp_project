@@ -1,5 +1,5 @@
 
-# Mature-AMP project </br>
+# Sliding window cleaving of AMPs to predict the mature sequence </br>
 
 ## Description of the project: </br>
 
