@@ -1,3 +1,17 @@
+install.packages("pspline")
+# Loading all the libraries
+library(ggplot2)
+library(dplyr)
+library(tibble)
+library(tidyverse)
+library(grid)
+library(cowplot)
+library(gridExtra)
+library(dynlm)
+library(AER)
+library(car)
+library(pspline)
+
 # Read the TSV files
 
 slid_seq30 <- read.table("/projects/btl_scratch/saninta/amp_pipeline/anura/apetersi/skin_liver/amplify/slid_seq/AMPlify_results.tsv",sep = "\t", header = TRUE)
