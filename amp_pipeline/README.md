@@ -7,5 +7,6 @@ For more information, please check out https://github.com/dy-lin/msc-thesis-comm
 
 ## Tasks that I perform: </br>
    - Write scripts for the cleaving step of the AMP discovery pipeline in Python
+   - Visualize and analyze the results using several packages in R
    - Test the scripts for all 84 datasets
    - Working on how to refine and perform cleaving more accurately and hence started the sliding window cleaving project 
