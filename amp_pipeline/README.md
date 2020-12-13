@@ -6,7 +6,9 @@ Bacteria can rapidly evolve to develop resistance to antibiotics, presenting a g
 For more information, please check out https://github.com/dy-lin/msc-thesis-committee.
 
 ## Tasks that I perform: </br>
-   - Write scripts for the cleaving step of the AMP discovery pipeline in Python
-   - Visualize and analyze the results using several packages in R
-   - Test the scripts for all 84 datasets
+   - Writing scripts for the cleaving step of the AMP discovery pipeline in Python
+   - Visualizing and analyze the results using several packages in R
+   - Testing the scripts for all 84 datasets
+   - Using Bash to write scripts to manipulate data, work on the command line, etc 
    - Working on how to refine and perform cleaving more accurately and hence started the sliding window cleaving project in order to predict the mature region of proteins more accurately
+   
