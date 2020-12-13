@@ -7,7 +7,7 @@
    - Wrote a python script that can perform a *kmer* based cleaving of AMP precursor sequences given any value for the *kmer*
    - Ran the cleaved pieces on [AMPlify](https://github.com/bcgsc/AMPlify) to predict their ability to act as AMPs
    - Tested on known AMPs, known non-AMPs and unknown 84 datasets 
-   - Wrote R scripts that can visualize the results and plot AMPlify score for the pieces which can help us determine phase transition and hence mature regions of        the Antimicrobial peptides more accurately
+   - Wrote R scripts (used ggplot, ggacf, tidyverse, etc) to visualize the results and plot AMPlify score for the pieces which can help us determine phase transition and hence mature regions of the Antimicrobial peptides more accurately
    
 
 
