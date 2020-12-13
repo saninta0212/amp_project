@@ -1,2 +1,2 @@
 ## Presentations: </br>
-[Co-op progress report](./Term-1) - December 7th, 2020
+[Co-op progress report](./Term-1.pdf) - December 7th, 2020
