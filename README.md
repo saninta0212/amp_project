@@ -1,5 +1,5 @@
 ## Projects: </br>
-1. Cleaving sequences </br>
+1. Cleaving amp sequences </br>
 2. Sliding window cleaving
 
 
